@@ -1,0 +1,14 @@
+GuessMyAge guess my age
+GuessMyAge play guess my age
+GuessMyAge what is my age
+GuessMyAge how old am I
+
+OkIntent ok
+OkIntent ready
+OkIntent done
+OkIntent go on
+
+ResultIntent the result is {result}
+ResultIntent it is {result}
+ResultIntent it's {result}
+ResultIntent {result}
