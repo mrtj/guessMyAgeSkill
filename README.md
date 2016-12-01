@@ -1,10 +1,10 @@
-# Guess my age Alexa skill
+![Guess My Age logo](docs/guessMyAge512x512.png)
 
-![Guess My Age logo](docs/guessMyAge.png)
+# Guess My Age
   
 Follow the instructions of Alexa and she will guess your age!
 
-Guess my age is a small gag skill that asks you to perform some calculations with the digits of your age. When you tell the final figure of your calculations, it will tell your age in years.
+Guess my age is a small gag Alexa skill that asks you to perform some calculations with the digits of your age. When you tell the final figure of your calculations, it will tell your age in years.
 
 ## Installation
 
