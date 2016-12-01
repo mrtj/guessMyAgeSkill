@@ -1,4 +1,4 @@
-![Guess My Age logo](docs/guessMyAge512x512.png)
+![Guess My Age logo](docs/guessMyAgeCrop.png)
 
 # Guess My Age
   
