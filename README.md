@@ -1,6 +1,6 @@
 # Guess my age Alexa skill
 
-[[https://github.com/mrtj/guessMyAgeSkill/blob/master/doc/guessMyAge.png|alt=GuessMyAgeLogo]]
+![Guess My Age logo](docs/guessMyAge.png)
   
 Follow the instructions of Alexa and she will guess your age!
 
